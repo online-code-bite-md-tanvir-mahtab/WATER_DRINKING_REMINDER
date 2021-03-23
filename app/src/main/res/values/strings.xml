@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyReminder</string>
+    <string name="message_title">Message</string>
+    <string name="my_massage_content">Hello World You need to take some water</string>
+</resources>
